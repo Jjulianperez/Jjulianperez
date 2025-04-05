@@ -45,7 +45,7 @@
   </a>
 </p>
 
-### 👉 Databases
+### 👉 Bases de datos
 <p align="left">
     &emsp;
         <a href="https://www.mysql.com/"><img alt="MySQL" src="https://cdn3.emoji.gg/emojis/3046_MySQL.png" style="width: 90px; height: 70px;"></a>
@@ -54,7 +54,7 @@
  </p>
   
 
- ### 👉 Software & Tools
+ ### 👉 Software & Herramientas
  
 <p>
     &emsp;
