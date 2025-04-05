@@ -22,7 +22,7 @@
   </a>
   &emsp;
   <a href="https://nodejs.org/es">
-    <img alt="Node.JS" src="https://nodejs.org/en/about/branding#nodejs-stacked-logo"/>
+    <img alt="Node.JS" src="https://github.com/nodejs/nodejs.org/blob/main/apps/site/public/static/logos/jsIconGreen.svg/>
   </a>
 </p>      
 
