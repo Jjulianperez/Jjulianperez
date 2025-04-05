@@ -56,33 +56,7 @@
 
  ### 👉 Software & Herramientas
  
-<p>
-    &emsp;
-        <a href="https://code.visualstudio.com/">
-            <img alt="Visual Studio Code" src="https://logospng.org/download/visual-studio-code/visual-studio-code-2048.png" style="width: 70px; height: 70px;"></a>
-    &emsp;
-        <a href="https://trello.com/">
-            <img alt="Trello" src="https://logo-marque.com/wp-content/uploads/2021/02/Trello-Logo-2011-2016-650x366.png" style="width: 170px; height: 90px;"></a>
-    &emsp;
-        <a href="https://discord.com/">
-            <img alt="Discort" src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" style="width: 120px; height: 120px;"></a>
-    &emsp;
-        <a href="https://slack.com/intl/es-ar/">
-            <img alt="Slack" src="https://1000logos.net/wp-content/uploads/2021/06/Slack-logo.png" style="width: 170px; height: 90px; background-color: white; border-radius: 5px; padding: 5px;"></a>
-    &emsp;
-        <a href="https://www.microsoft.com/es-ar/microsoft-365/free-office-online-for-the-web?msockid=0a1f162ef0de6aee294103eef1036b26">
-            <img alt="MicroSoft Office" src="https://th.bing.com/th/id/R.9d5b5f3a24883b7ff097b38e9c52301b?rik=2wvWAVLmL6Z3lQ&pid=ImgRaw&r=0" style="width: 170px; height: 90px;"></a>
-    &emsp;
-        <a href="https://www.adobe.com/ar/">
-          <img alt="photoshop" src="https://th.bing.com/th/id/R.64c94599883d855762116554bf1574bb?rik=z%2bAQ9E58PzOmHw&pid=ImgRaw&r=0" style="width: 70px; height: 70px;"></a>
-    &emsp;
-        <a href="https://www.canva.com/es_es/?msockid=0a1f162ef0de6aee294103eef1036b26">
-            <img alt="Canva" src="https://rootedinwriting.com/wp-content/uploads/2023/02/Canva_icon_2021.svg-1.png" style="width: 70px; height: 70px;"></a>
-    &emsp;
-        <a href="https://www.smartdraw.com/flowchart/diagramas-de-flujo.htm?id=369310&msclkid=e4d2776ff74d17915953109e8ebee111">
-            <img alt="Smartdraw" src="https://iconape.com/wp-content/png_logo_vector/smartdraw-logo.png" ></a>
-
-</p>
+<table> <tr align="center"> <td> <a href="https://code.visualstudio.com/"> <img src="https://logospng.org/download/visual-studio-code/visual-studio-code-2048.png" alt="VSCode" width="60" height="60" /> <br/>VS Code </a> </td> <td> <a href="https://trello.com/"> <img src="https://logo-marque.com/wp-content/uploads/2021/02/Trello-Logo-2011-2016-650x366.png" alt="Trello" width="90" height="60" /> <br/>Trello </a> </td> <td> <a href="https://discord.com/"> <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord" width="60" height="60" /> <br/>Discord </a> </td> <td> <a href="https://slack.com/intl/es-ar/"> <img src="https://1000logos.net/wp-content/uploads/2021/06/Slack-logo.png" alt="Slack" width="90" height="60" style="background-color: white; border-radius: 5px;" /> <br/>Slack </a> </td> </tr> <tr align="center"> <td> <a href="https://www.microsoft.com/es-ar/microsoft-365/free-office-online-for-the-web"> <img src="https://th.bing.com/th/id/R.9d5b5f3a24883b7ff097b38e9c52301b?rik=2wvWAVLmL6Z3lQ&pid=ImgRaw&r=0" alt="Office" width="80" height="60" /> <br/>Office </a> </td> <td> <a href="https://www.adobe.com/ar/"> <img src="https://th.bing.com/th/id/R.64c94599883d855762116554bf1574bb?rik=z%2bAQ9E58PzOmHw&pid=ImgRaw&r=0" alt="Photoshop" width="60" height="60" /> <br/>Photoshop </a> </td> <td> <a href="https://www.canva.com/es_es/"> <img src="https://rootedinwriting.com/wp-content/uploads/2023/02/Canva_icon_2021.svg-1.png" alt="Canva" width="60" height="60" /> <br/>Canva </a> </td> <td> <a href="https://www.smartdraw.com/flowchart/diagramas-de-flujo.htm"> <img src="https://iconape.com/wp-content/png_logo_vector/smartdraw-logo.png" alt="SmartDraw" width="60" height="60" /> <br/>SmartDraw </a> </td> </tr> </table>
 
 <br/>
 
