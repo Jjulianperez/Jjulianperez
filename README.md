@@ -20,7 +20,12 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://nodejs.org/es">
+    <img alt="Node.JS" src="https://nodejs.org/en/about/branding#nodejs-stacked-logo"/>
+  </a>
 </p>      
+
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
