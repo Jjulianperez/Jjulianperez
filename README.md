@@ -7,7 +7,6 @@
 <h4 align="center">Soy un programador Junior, tengo talento y experienza trabajando en equipo con proyectos colaborativos.
   amo conocer gente nueva, soy muy sociable y comprometivo con el trabajo. Me encanta enfrentarme a nuevos desafios y aprender nuevas habilidades para mi experienza y desarrollo personal .</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🛠️ My Skills
 
