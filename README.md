@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>📌 Desarrollador con experiencia en software factory y proyectos reales.</b>
+  <b>📌Desarrollador con experiencia en software factory y proyectos reales.</b>
   <br/>
   Me gusta el código limpio, la arquitectura organizada y trabajar en equipo.
 </p>
@@ -18,11 +18,17 @@
 
 ### 📊 Estadísticas
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jjulianperez&show_icons=true&theme=react&hide_border=true" />
+<a href="https://github.com/Jjulianperez">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jjulianperez&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jjulianperez&theme=react&hide_border=true"/>
+<a href="https://github.com/Jjulianperez">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jjulianperez&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jjulianperez&layout=compact&theme=react&hide_border=true"/>
+<a href="https://github.com/Jjulianperez">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jjulianperez&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
