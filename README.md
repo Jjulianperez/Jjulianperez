@@ -75,17 +75,13 @@
 
 </div>
 
-_👉 Si querés que publique uno en tu perfil, avisame y te lo armo con imagen y deploy._
-
----
-
 ## 🏆 Badges que suman a tu perfil
 
 <div align="center">
 <img src="https://img.shields.io/badge/React-Developer-blue?logo=react&style=for-the-badge" />
-<img src="https://img.shields.io/badge/TypeScript-Expert-blue?logo=typescript&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Zustand-State%20Manager-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TanStack%20Query-Mastery-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-beginner-blue?logo=typescript&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zustand-State%20beginner-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TanStack%20Query-beginner-red?style=for-the-badge" />
 </div>
 
 ---
